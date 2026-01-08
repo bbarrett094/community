@@ -1,0 +1,9 @@
+id: movie-night-suite
+name: Movie Night Suite
+summary: Cycle through movie info
+desc: Displays movie marquee, poster, details, and ratings from OMDb.
+author: Tidbyt Community Member
+tags:
+  - Movies
+  - Entertainment
+fileName: movie_night_suite.star
